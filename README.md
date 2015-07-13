@@ -1,3 +1,5 @@
 User Narrative:
 
-For my project 0, I am creating a micro car blog in which users can post a blog about what kind of car they drive. There's going to be a form in which they can fill in the year, make, model, modifications, and a photo of the car they drive. 
+For my project 0, I am creating a micro-blog in which users can post Macbook productivity tips.  The intention of the site is to share tips for others to use. Users are provided a form in which they share their tips. 
+
+jQuery, Bootstrap, Underscore. 
